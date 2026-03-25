@@ -88,7 +88,7 @@ const Contact = () => {
               href="https://wa.me/923036102526"
               target="_blank"
               rel="noopener noreferrer"
-              className="p-3 items-center flex gap-2 rounded-lg bg-green-500 hover:bg-green-600 hover:text-white transition-colors"
+              className="btn-simple  flex items-center gap-2 w-full sm:w-auto justify-center hover:text-white   "
               aria-label="WhatsApp"
               style={{ backgroundColor: "#075e54" }}
             >
